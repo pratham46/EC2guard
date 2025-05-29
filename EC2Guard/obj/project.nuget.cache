@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dcm/Fkv37MKQsxjnGwICKByjWQaPte1bAkHCbBFq7SRsJRojyP9CWr3FO0nFFzajNZTU1Gl0iqtzjMXVo4zeGg==",
+  "success": true,
+  "projectFilePath": "E:\\sem6\\EC2Guard\\EC2Guard\\EC2Guard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.core\\3.7.303.12\\awssdk.core.3.7.303.12.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.301.20\\awssdk.simplenotificationservice.3.7.301.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC2Guard", "EC2Guard\EC2Guard.csproj", "{A364EC84-BC84-4030-9EF0-D5E348081AA3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EC2Guard_Installer", "EC2Guard_Installer\EC2Guard_Installer.vdproj", "{9F5A41BD-826E-403C-AAA4-95AC68A51989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A364EC84-BC84-4030-9EF0-D5E348081AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A364EC84-BC84-4030-9EF0-D5E348081AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A364EC84-BC84-4030-9EF0-D5E348081AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A364EC84-BC84-4030-9EF0-D5E348081AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5A41BD-826E-403C-AAA4-95AC68A51989}.Debug|Any CPU.ActiveCfg = Debug
+		{9F5A41BD-826E-403C-AAA4-95AC68A51989}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD71C86C-478B-44EF-8599-861FCBBEAF26}
+	EndGlobalSection
+EndGlobal

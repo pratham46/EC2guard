@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sem6\\EC2Guard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|e:\\sem6\\ec2guard\\ec2guard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|E:\\sem6\\EC2Guard\\ec2guard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|E:\\sem6\\EC2Guard\\ec2guard\\ec2guard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\ec2guard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|E:\\sem6\\EC2Guard\\ec2guard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|E:\\sem6\\EC2Guard\\ec2guard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|E:\\sem6\\EC2Guard\\ec2guard\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A364EC84-BC84-4030-9EF0-D5E348081AA3}|EC2Guard\\EC2Guard.csproj|solutionrelative:ec2guard\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.cs",
+              "RelativeDocumentMoniker": "EC2Guard\\Form1.cs",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.cs",
+              "RelativeToolTip": "EC2Guard\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowLIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:10:01.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.resx",
+              "RelativeDocumentMoniker": "EC2Guard\\Form1.resx",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.resx",
+              "RelativeToolTip": "EC2Guard\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-28T09:57:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EC2Guard\\Form1.Designer.cs",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.Designer.cs",
+              "RelativeToolTip": "EC2Guard\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:10:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\Program.cs",
+              "RelativeDocumentMoniker": "EC2Guard\\Program.cs",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\Program.cs",
+              "RelativeToolTip": "EC2Guard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:13:33.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EC2Guard.csproj",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\EC2Guard.csproj",
+              "RelativeDocumentMoniker": "EC2Guard\\EC2Guard.csproj",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\EC2Guard.csproj",
+              "RelativeToolTip": "EC2Guard\\EC2Guard.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T18:09:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.cs",
+              "RelativeDocumentMoniker": "EC2Guard\\Form1.cs",
+              "ToolTip": "E:\\sem6\\EC2Guard\\EC2Guard\\Form1.cs [Design]",
+              "RelativeToolTip": "EC2Guard\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:07:42.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
